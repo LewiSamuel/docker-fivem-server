@@ -17,8 +17,8 @@ FROM alpine:latest
 
 LABEL maintainer="github.com/altshiftzero"
 
-ENV TXADMIN_VERSION="4.12.0" \
-    FIVEM_ARTIFACT="5265-dae83f643b2ea1e2488e1a57b3b1d53988a2128d"
+ENV TXADMIN_VERSION="5.2.0" \
+    FIVEM_ARTIFACT="6305-78539d06d34cfec6308da06fc6f8fc2dfda9cd8b"
 
 EXPOSE 40120
 EXPOSE 30120

@@ -30,6 +30,6 @@ services:
   database:
     image: mariadb:latest
     environment:
-      MYSQL_ROOT_PASSWORD: ***CHANGEME***
+      MYSQL_ROOT_PASSWORD: 123123
     volumes:
       - database_data:/var/lib/mysql
